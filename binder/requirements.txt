@@ -1,0 +1,9 @@
+traitlets>=4.3.1
+xlrd
+ipython
+jupyterlab_launcher>=0.5.0
+pandas
+vdom
+matplotlib
+scipy
+scikit-learn
