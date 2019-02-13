@@ -2,8 +2,11 @@ traitlets>=4.3.1
 xlrd
 ipython
 jupyterlab_launcher>=0.5.0
+cython>=0.21
+numpy>=1.8
+scipy>=0.14
+matplotlib>=1.2
 pandas
 vdom
-matplotlib
-scipy
 scikit-learn
+qutip>=3.1
