@@ -1,6 +1,0 @@
-htop
-tree
-vim
-nano
-emacs
-man
