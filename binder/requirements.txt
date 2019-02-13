@@ -1,5 +1,6 @@
 traitlets>=4.3.1
 jupyterlab_launcher>=0.5.0
+pip==19.0.2
 xlrd
 ipython
 cython
@@ -9,5 +10,4 @@ matplotlib
 pandas
 vdom
 scikit-learn
---upgrade pip
 qutip
